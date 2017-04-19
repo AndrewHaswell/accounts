@@ -80,7 +80,7 @@
 
       <!-- Branding Image -->
       <a class="navbar-brand" href="{{ url('/') }}">
-        Laravel
+        Haswell
       </a>
     </div>
 
